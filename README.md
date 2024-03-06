@@ -1,5 +1,5 @@
 機器人好友ID:@842jdhbr
-
+![image](https://github.com/trial1025/Linebot-AirQuality/blob/master/S_gainfriends_2dbarcodes_GW.png)
 ### 使用資料:
 空氣品質指標(AQI)(歷史資料) https://data.gov.tw/dataset/151824
 (每小時提供各測站之空氣品質指標（AQI）)
